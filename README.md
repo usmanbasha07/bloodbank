@@ -22,13 +22,13 @@ git clone https://github.com/usmanbasha07/bloodbank
 npm install
 
 
-4. Set up MongoDB Atlas:
+3. Set up MongoDB Atlas:
    
    - Create a MongoDB Atlas account if you don't have one.
    - Create a cluster and obtain the connection URI.
    - Replace the connection URI in `config/db.js` with your MongoDB Atlas connection URI.
 
-5. Start the application:
+4. Start the application:
 
 npm start
 
@@ -39,7 +39,7 @@ npm start
 - **Express.js:** Web application framework for Node.js.
 - **MongoDB Atlas:** Cloud-hosted MongoDB database service.
 - **HTML/CSS/JavaScript:** Frontend development technologies.
-- **Bootstrap:** Frontend framework for building responsive and mobile-first websites.
+- **ReactBootstrap:** Frontend framework for building responsive and mobile-first websites.
 - **Passport.js:** Authentication middleware for Node.js.
 - **EJS:** Embedded JavaScript templating for generating HTML markup with plain JavaScript.
 
